@@ -16,29 +16,15 @@ Problem Description:
     No need to print the elements of the output array/list.
 
  ##### Sample Input 1:
-    1
-    3
+    
+    
     6 2 4
-    3
     7 5 6
 
 ##### Sample Output 1:
     1 3 8 0
 
-##### Sample Input 2:
-    2
-    3
-    8 5 2
-    2
-    1 3
-    4
-    9 7 6 1
-    3
-    4 5 9
 
-##### Sample Output 2:
-    0 8 6 5
-    1 0 2 2 0 
     
     
     
