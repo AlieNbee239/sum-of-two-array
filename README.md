@@ -1,4 +1,5 @@
-# sum-of-two-array
+# sum-of-two-array - coding ninja
+
 Assignment Coding Problem
 Problem Name: Sum of Two Arrays 
 Problem Level: MEDIUM
